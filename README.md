@@ -1,4 +1,4 @@
-# adv-net-sec-proj
+# Tìm hiểu và triển khai OpenEDR
 
 Đây là repo lưu trữ báo cáo của nhóm DA08 - Tìm hiểu và triển khai EDR
 
